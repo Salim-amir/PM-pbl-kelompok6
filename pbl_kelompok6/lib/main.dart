@@ -13,7 +13,7 @@ import 'package:flutter/material.dart';
 // ---- Import fitur (satu per folder fitur) ----
 import 'features/login/screens/login_screen.dart';
 import 'features/register/screens/register_screen.dart';
-import 'features/home/screens/home_screen.dart';
+import 'features/home/screen/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
